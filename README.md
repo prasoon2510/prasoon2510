@@ -2,9 +2,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasoon2510" alt="prasoon2510" /></a> </p>
-
 - 🔭 I’m currently working on [Fashion MNIST Data Classification](https://github.com/prasoon2510/fashion-mnist.git)
 
 - 🌱 I’m currently learning **Frameworks like Angular,Vue and Java Programming with Data Structures**
